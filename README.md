@@ -13,3 +13,7 @@ Simple and Easy: No complex setup needed. Perfect for beginners or those looking
 HTML: Structure of the page.
 CSS: Styling the animation.
 JavaScript: The magic behind the interactive mouse trail.
+
+
+![image](https://github.com/user-attachments/assets/1620394e-edcd-42b3-872c-2e6234f79ebb)
+
